@@ -18,6 +18,8 @@ public class StringManipulations04 {
         Double totalPrice = Double.valueOf(tv) + Double.valueOf(laptop);
         System.out.println(totalPrice); //1332.98
 
+        //valueOf() : Belirtilen String'i Double'a cevirir
+
         //-------------------------
         //Ornek 2: Kullanici isminin ilk harflerini alip buyuk hale getirerek console'a yazdiriniz.
         //           "   ali cAN   " ==> AC
